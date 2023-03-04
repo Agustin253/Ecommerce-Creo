@@ -1,4 +1,4 @@
-# Ecommerce-Lunas
+# Ecommerce-Creo
 
 Este es un proyecto de la carrera de Desarrollador Frontend con React de Coderhouse.
 En esta ocasión creamos un Ecommerce con un carrito de compras donde podemos seleccionar los artículos que queremos comprar, agregaros al carrito, 
